@@ -1,0 +1,11 @@
+
+.Weather {
+    
+    padding: 50px;
+    border-radius: 20px;
+    background-color: rgb(73, 13, 168);
+}
+
+.Weather form {
+    margin-bottom: 20px;
+}
